@@ -1,9 +1,11 @@
-# usb-monitor-ieum
-USB Monitor for Mac / Mac Mini
 
-# 이음(ieum)
+<div align="center">
+  <img src="icon_128x128.png">
+  <h2>HDMI Monitor for Mac / Mac Mini</h1>
+  <h1>이음(ieum)</h1>
+  <span>Mac / MacBook에 HDMI 캡처보드를 연결한 후 Mac Mini의 화면을 보는 도구입니다. </span>
+</div>
 
-Mac / MacBook에 HDMI 캡처보드를 연결한 후 Mac Mini의 화면을 보는 도구입니다. 
 
 # 라이선스: 무료
 
